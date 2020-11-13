@@ -1,6 +1,18 @@
 patch:
-  show_notifications_when: appropriate  # 状态通知，适当(appropriate)，开（always）关（never）
-  
+  show_notifications_when: appropriate
+  app_options/com.googlecode.iterm2:
+    ascii_mode: true
+  app_options/com.apple.dt.Xcode:
+    ascii_mode: true
+  app_options/com.runningwithcrayons.Alfred:
+    ascii_mode: true
+  app_options/com.sublimetext.3:
+    ascii_mode: true
+  app_options/com.jetbrains.intellij:
+    ascii_mode: true
+  app_options/com.apple.Finder:
+    ascii_mode: true
+
   style:
     color_scheme: apathy
   preset_color_schemes:
