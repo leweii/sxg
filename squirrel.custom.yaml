@@ -4,13 +4,11 @@ patch:
     ascii_mode: true
   app_options/com.apple.dt.Xcode:
     ascii_mode: true
-  app_options/com.runningwithcrayons.Alfred:
-    ascii_mode: true
-  app_options/com.sublimetext.3:
-    ascii_mode: true
   app_options/com.jetbrains.intellij:
     ascii_mode: true
   app_options/com.apple.Finder:
+    ascii_mode: true
+  app_options/com.runningwithcrayons.Alfred:
     ascii_mode: true
 
   style:
