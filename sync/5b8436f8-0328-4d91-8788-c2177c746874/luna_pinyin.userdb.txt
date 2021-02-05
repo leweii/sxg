@@ -1,0 +1,8 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	1
+#@/user_id	5b8436f8-0328-4d91-8788-c2177c746874
+di fang 	地方	c=0 d=0.1 t=0
+di fang di fang 	地方地方	c=1 d=1 t=1
